@@ -7,6 +7,12 @@ This Flutter mobile application project recreates the UI of the existing Tunisia
 - **UI Replication**: The app replicates the user interface of the paysmart app, focusing on mimicking the layout, color schemes, and design elements.
 - **Navigation**: Intuitive navigation patterns similar to paysmart for seamless movement between different screens and sections of the app.
 - **Basic Functionality**: Implements basic functionalities present in paysmart, such as user authentication, transaction history, paysmartnt processing, and account management.
+  
+## Preview
+
+https://github.com/HaithemGhattass/PaySmart/assets/61064727/11359d0c-6c18-44c9-8abf-cf0d4b513b33
+
+
 
 ## Installation
 
